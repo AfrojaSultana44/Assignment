@@ -1,0 +1,6 @@
+.example {
+  background-image: url(Images/img1.webp), url(Images/img2.jpeg);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+}
